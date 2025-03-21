@@ -13,11 +13,11 @@ This is an interactive **Retail Dashboard** created using **Excel & Advanced Exc
 ✅ Yearly Sales Trends  
 
 📷 **Screenshots**  
-[![Dashboard Screenshot]([https://your-image-link.com)](https://github.com/yourusername/Retail-Dashboard](https://github.com/yashchauhan5421/Walmart-Dynamic-Retail-Dashboard/blob/main/Walmart-Dynamic-Retail-Dashboard-Screeshot.png))  
+[![Dashboard Screenshot](https://github.com/yashchauhan5421/Walmart-Dynamic-Retail-Dashboard/blob/main/Walmart-Dynamic-Retail-Dashboard-Screeshot.png)  
 
-🔗 **Check out the project here:** [GitHub Repository]([https://github.com/yourusername/Retail-Dashboard](https://github.com/yashchauhan5421/Walmart-Dynamic-Retail-Dashboard))  
+🔗 **Check out the project here:** [GitHub Repository](https://github.com/yashchauhan5421/Walmart-Dynamic-Retail-Dashboard)  
 
-📂 **Download Excel File:** [Dashboard.xlsx]([./Dashboard.xlsx](https://github.com/yashchauhan5421/Walmart-Dynamic-Retail-Dashboard/blob/main/Dynamic%20retail%20dashboard.xlsx))  
+📂 **Download Excel File:** [Dashboard.xlsx](https://github.com/yashchauhan5421/Walmart-Dynamic-Retail-Dashboard/blob/main/Dynamic%20retail%20dashboard.xlsx)  
 
 💡 **Learnings & Skills Gained:**  
 ✔ Data Visualization in Excel  
